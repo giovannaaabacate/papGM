@@ -46,6 +46,16 @@ header {
     color: #e80000;
 }
 
+.h1-sam {
+    font-family: cursive;
+    color: #e619b6;
+}
+
+.h2-sam {
+    font-family: cursive;
+    color: #e619b6;
+}
+
 .bio {
     font-family: system-ui;
     color: #615f45;
