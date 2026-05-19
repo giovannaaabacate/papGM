@@ -3,7 +3,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #fffbd1;
-    color: white;
     font-family: cursive, system-ui;
     display: flex;
     flex-direction: column; /* Alinha elementos um por baixo do outro */
