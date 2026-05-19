@@ -152,6 +152,14 @@ color: #050505;
 text-align: center;
 }
 
+.autor {
+font-family: cursive;
+font-size: 0.9em;
+line-height: 1.5;
+color: rgba(212, 209, 174);
+text-align: center;
+}
+
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
 .btn:hover {
     background-color: #3498db;
