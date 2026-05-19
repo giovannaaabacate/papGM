@@ -58,7 +58,7 @@ header {
 
 .bio {
     font-family: system-ui;
-    color: #615f45;
+    color: #4f4d37;
     font-style: italic;
 }
 
@@ -153,11 +153,11 @@ text-align: center;
 }
 
 .autor {
-font-family: cursive;
+font-family: system-ui;
 text-decoration: none;
 font-size: 0.9em;
 line-height: 1.5;
-color: #615f45;
+color: #4f4d37;
 text-align: center;
 }
 
