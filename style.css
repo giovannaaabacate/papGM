@@ -2,9 +2,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #1a1a1a; /* Cor de fundo escura (moderna) */
+    background-color: #fae7b4;
     color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: cursive, system-ui;
     display: flex;
     flex-direction: column; /* Alinha elementos um por baixo do outro */
     align-items: center;    /* Centra horizontalmente */
@@ -67,6 +67,7 @@ text-align: center;
 }
 
 .pap-text {
+font-family: system-ui;
 font-size: 0.9em;
 line-height: 1.5;
 color: #bdc3c7;
