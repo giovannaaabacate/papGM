@@ -22,7 +22,27 @@ header {
 }
 
 .h1-index {
-    font-family: cursive
+    font-family: cursive;
+    color: #e80000;
+}
+
+.h1-cg {
+    font-family: cursive;
+    color: #671eb0;
+}
+
+.h2-cg {
+    font-family: cursive;
+    color: #671eb0;
+}
+
+.h1-sx {
+    font-family: cursive;
+    color: #e80000;
+}
+
+.h2-sx {
+    font-family: cursive;
     color: #e80000;
 }
 
