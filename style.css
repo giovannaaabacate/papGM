@@ -22,6 +22,11 @@ header {
     object-fit: cover; /* Garante que a foto não fica esticada */
 }
 
+.h1index {
+    font-family: cursive
+    color: #e80000;
+}
+
 .bio {
     font-family: system-ui;
     color: #bdc3c7;
