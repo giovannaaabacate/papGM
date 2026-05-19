@@ -23,6 +23,7 @@ header {
 }
 
 .bio {
+    font-family: system-ui;
     color: #bdc3c7;
     font-style: italic;
 }
@@ -38,6 +39,7 @@ header {
 .btn {
     display: block;
     background-color: white;
+    font-family: system-ui;
     color: #1a1a1a;
     text-decoration: none; /* Remove o sublinhado */
     padding: 18px;
