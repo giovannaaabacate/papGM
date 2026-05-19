@@ -2,7 +2,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #fae7b4;
+    background-color: #fcf1d2;
     color: white;
     font-family: cursive, system-ui;
     display: flex;
@@ -39,7 +39,7 @@ header {
 .btn {
     display: block;
     background-color: white;
-    font-family: system-ui;
+    font-family: cursive;
     color: #1a1a1a;
     text-decoration: none; /* Remove o sublinhado */
     padding: 18px;
@@ -55,6 +55,7 @@ header {
 background-color: #3498db; 
 color: white !important;
 }
+
 /* Estilo para o conteúdo descritivo */
 .pap-content {
 background: rgba(255, 255, 255, 0.1);
