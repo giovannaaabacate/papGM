@@ -46,6 +46,7 @@ header {
     background-color: #3498db;
     font-family: cursive;
     color: #1a1a1a;
+    color: white !important; 
     text-decoration: none; /* Remove o sublinhado */
     padding: 18px;
     margin-bottom: 15px;
@@ -60,6 +61,7 @@ display: block;
 background-color: #671eb0; 
 font-family: cursive;
 color: #1a1a1a;
+color: white !important;
 text-decoration: none; /* Remove o sublinhado */
 padding: 18px;
 margin-bottom: 15px;
@@ -74,6 +76,7 @@ display: block;
 background-color: #cf0606; 
 font-family: cursive;
 color: #1a1a1a;
+color: white !important;
 text-decoration: none; /* Remove o sublinhado */
 padding: 18px;
 margin-bottom: 15px;
@@ -89,6 +92,7 @@ display: block;
 background-color: #3498db; 
 font-family: cursive;
 color: #1a1a1a;
+color: white !important;
 text-decoration: none; /* Remove o sublinhado */
 padding: 18px;
 margin-bottom: 15px;
@@ -121,6 +125,24 @@ text-align: center;
 
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
 .btn:hover {
+    background-color: #3498db;
+    color: white;
+    transform: translateY(-3px); /* Pequeno salto para cima */
+}
+
+.btn-pap:hover {
+    background-color: #3498db;
+    color: white;
+    transform: translateY(-3px); /* Pequeno salto para cima */
+}
+
+.btn-cg:hover {
+    background-color: #3498db;
+    color: white;
+    transform: translateY(-3px); /* Pequeno salto para cima */
+}
+
+.btn-sx:hover {
     background-color: #3498db;
     color: white;
     transform: translateY(-3px); /* Pequeno salto para cima */
