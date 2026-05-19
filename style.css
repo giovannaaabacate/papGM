@@ -51,19 +51,46 @@ header {
 }
 
 .btn-cg {
+display: block;
 background-color: #671eb0; 
-color: white !important;
+font-family: cursive;
+color: #1a1a1a;
+text-decoration: none; /* Remove o sublinhado */
+padding: 18px;
+margin-bottom: 15px;
+border-radius: 12px;   /* Cantos suaves */
+text-align: center;
+font-weight: bold;
+transition: 0.3s;
 }
 
 .btn-sx {
+display: block;
 background-color: #cf0606; 
-color: white !important;
+font-family: cursive;
+color: #1a1a1a;
+text-decoration: none; /* Remove o sublinhado */
+padding: 18px;
+margin-bottom: 15px;
+border-radius: 12px;   /* Cantos suaves */
+text-align: center;
+font-weight: bold;
+transition: 0.3s;
 }
 
 /* Cor de destaque para o botão da PAP */
 .btn-pap {
+display: block;
 background-color: #3498db; 
-color: white !important;
+font-family: cursive;
+color: #1a1a1a;
+text-decoration: none; /* Remove o sublinhado */
+padding: 18px;
+margin-bottom: 15px;
+border-radius: 12px;   /* Cantos suaves */
+text-align: center;
+font-weight: bold;
+transition: 0.3s;
 }
 
 /* Estilo para o conteúdo descritivo */
