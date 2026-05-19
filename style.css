@@ -50,6 +50,16 @@ header {
     transition: 0.3s;      /* Suaviza a animação de toque */
 }
 
+.btn-cg {
+background-color: #671eb0; 
+color: white !important;
+}
+
+.btn-sx {
+background-color: #cf0606; 
+color: white !important;
+}
+
 /* Cor de destaque para o botão da PAP */
 .btn-pap {
 background-color: #3498db; 
